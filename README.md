@@ -1,4 +1,4 @@
-## Hi there 👋 My name is HongChanYong
+## 안녕하세요. 백엔드 개발자 홍찬용입니다.
 
 ### Tech Stack
 
