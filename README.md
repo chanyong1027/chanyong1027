@@ -10,6 +10,7 @@
 |---------|-------------|
 | [CheckBook](https://github.com/chanyong1027/checkbook) | 도서 가격 비교 및 도서관 소장 여부 검색 서비스 |
 | [LuminaOps](https://github.com/chanyong1027/LuminaOps) | 조직 단위 LLM 호출 표준화 + 프롬프트 버전 관리 + 요청 단위 비용·지연·오류 추적 LLMOps 플랫폼 |
+| [Groovid](https://github.com/prgrms-be-adv-devcourse/beadv7_7_LY_BE) | LP 경매 서비스 |
 
 ### Contact
 
